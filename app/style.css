@@ -1,0 +1,48 @@
+.pricing-table .package .price {
+    margin: 35px 0 0 0;
+    font-size: 36px;
+    line-height: 1.2;
+    background:lightgreen;
+    border-radius: 15px;
+    width: 75px;
+    margin-left: 60px;
+    text-align: center;
+}
+.container, label{
+    font-weight: bold;
+    width: 250px;
+}
+.seldiv{
+    background: #415665;
+    height: 75px;
+    width:200px;
+    border-radius: 15px;
+    padding:20px;
+    font-size:22px;
+    color:#fff;
+    font-weight: bold;
+}
+.b-1{
+    background: #415665;
+    color: #fff;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.b-1:hover{
+    color: #fff;
+    background:lightgreen;
+    transition: all .3s linear;
+    color: black;
+    border-color: black;
+}
+p.disclaimer{
+    margin:15px;
+    text-align: center;
+}
+p.disclaimer::first-letter{
+    text-transform: uppercase;
+}
+li img{
+    background-color: burlywood;
+    border-radius: 15px;
+}
